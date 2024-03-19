@@ -14,7 +14,7 @@ function Contact() {
     console.log(title, body, isLoading)
 
   return (
-    <div className="flex  mb-20 flex-wrap sm:flex-nowrap">
+    <div className="flex  mb-20 flex-wrap md:flex-nowrap">
       <div className="flex flex-col ">
 
           <h3 className=" text-left ml-20 absolute mt-3">Home / Contact</h3>
