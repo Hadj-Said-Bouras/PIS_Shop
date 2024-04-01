@@ -1,12 +1,12 @@
 import Image from "next/image";
-import RightBar from "../Components/rightbar";
-import Banner from "../Components/homebanner";
-import FlashSales from "../Components/flashsales";
-import Categories from "../Components/categories";
-import ThisMonth from "../Components/thismonth";
-import MiddleBanner from "../Components/middlebanner";
-import OurProducts from "../Components/ourproducts";
-import Featured from "../Components/featured";
+import RightBar from "../components/rightbar";
+import Banner from "../components/homebanner";
+import FlashSales from "../components/flashsales";
+import Categories from "../components/categories";
+import ThisMonth from "../components/thismonth";
+import MiddleBanner from "../components/middlebanner";
+import OurProducts from "../components/ourproducts";
+import Featured from "../components/featured";
 
 
 export default function Home() {
