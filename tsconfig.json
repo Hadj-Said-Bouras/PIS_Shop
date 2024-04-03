@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/flashsales.js", "app/checkout/page.js", "components/categories.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/flashsales.js", "app/checkout/page.js", "components/categories.js", "components/navbar.js", "components/homebanner.js"],
   "exclude": ["node_modules"]
 }
